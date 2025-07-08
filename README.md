@@ -27,4 +27,13 @@
 - Wrote README  
 - Set goal to learn and push myself for 30 days  
 
+**Day 2 (7 July 2025):**
+-Launched Ubuntu EC2 instance on AWS
+-Created and used SSH key pair to connect securely
+-Configured Security Group (opened ports 22 & 80)
+-Installed and started NGINX web server
+-Verified NGINX welcome page via public IP
+-Documented everything in aws/nginx-setup.md
+-Added progress screenshots to aws/screenshots/
+
 ➡️ *(More updates coming each day!)*
