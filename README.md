@@ -24,16 +24,28 @@
 
 **Day 1 (6 July 2025):**  
 - Created GitHub repo  
-- Wrote README  
-- Set goal to learn and push myself for 30 days  
+- Wrote initial README with 30-day learning plan  
+- Set goal to push myself and become job-ready
 
-**Day 2 (7 July 2025):**
--Launched Ubuntu EC2 instance on AWS
--Created and used SSH key pair to connect securely
--Configured Security Group (opened ports 22 & 80)
--Installed and started NGINX web server
--Verified NGINX welcome page via public IP
--Documented everything in aws/nginx-setup.md
--Added progress screenshots to aws/screenshots/
+**Day 2 (7 July 2025):**  
+- Launched EC2 instance (Ubuntu 22.04, t2.micro)  
+- Connected via SSH using PEM key  
+- Installed and verified NGINX web server
+
+**Day 3 (8 July 2025):**  
+- Deployed static website using NGINX  
+- Created and transferred `index.html` to EC2 using `scp`  
+- Replaced NGINX default page and verified website live
+
+**Day 4 (9 July 2025):**  
+- Allocated Elastic IP to EC2 for static access  
+- Associated IP and confirmed website is reachable  
+- Learned about billing for unused Elastic IPs
+
+**Day 5 (10 July 2025):**  
+- Created CI pipeline using GitHub Actions  
+- Configured workflow to run on every `push`  
+- Installed Python & Flask in CI job  
+- Verified successful automation in GitHub Actions tab
 
 ➡️ *(More updates coming each day!)*
