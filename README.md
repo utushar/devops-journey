@@ -48,4 +48,10 @@
 - Installed Python & Flask in CI job  
 - Verified successful automation in GitHub Actions tab
 
+**Day 6 (11 July 2025):**  
+- Built a Docker image for a Flask app  
+- Ran it as a container on localhost  
+- Verified via `http://localhost:5000`  
+- Documented in `docker/day6-docker-flask.md`
+
 ➡️ *(More updates coming each day!)*
